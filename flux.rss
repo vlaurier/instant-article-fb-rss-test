@@ -27,13 +27,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
           <body>
             <article>
               <header>
-                <!— Article header goes here -->
+                <h1>Title header</h1>
               </header>
 
-              <!— Article body goes here -->
+              <p>A paragraph for body</p>
 
               <footer>
-                <!— Article footer goes here -->
+                <p>A paragraph as footer</p>
               </footer>
             </article>
           </body>
