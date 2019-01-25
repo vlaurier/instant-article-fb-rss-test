@@ -16,7 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <author>Mr. Author</author>
       <description>This is my first Instant Article. How awesome is this?</description>
       <content:encoded>
-        
+        <![CDATA[
         <!doctype html>
         <html lang="en" prefix="op: http://media.facebook.com/op#">
           <head>
@@ -38,7 +38,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
             </article>
           </body>
         </html>
-        
+        ]]>
       </content:encoded>
     </item>
   </channel>
