@@ -2,7 +2,7 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>News Publisher</title>
-        <link>http://www.example.com/</link>
+        <link>https://jack.canal.fr</link>
         <description>
             Read our awesome news, every day.
         </description>
@@ -10,7 +10,7 @@
         <lastBuildDate>2014-12-11T04:44:16Z</lastBuildDate>
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/camp-claude-jaune-quelles-sont-les-nouvelles-tetes-de-2019</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb12</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -367,7 +367,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/c-est-la-fin-des-soldes-david-gilmour-met-120-guitares-aux-encheres</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb13</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -724,7 +724,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/il-claque-26-000-pour-s-offrir-le-visage-de-michael-jackson</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb14</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -1081,7 +1081,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/ce-groupe-de-heavy-metal-vient-de-mongolie-et-devrait-plaire-au-hellfest</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb15</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -1438,7 +1438,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/romeo-elvis-part-en-guerre-contre-les-bouteilles-en-plastique</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb16</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -1795,7 +1795,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/comment-la-pop-francaise-s-est-reappropriee-les-codes-du-hip-hop</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb17</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -2152,7 +2152,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/actualites/bowie-nomme-plus-grand-artiste-du-20ieme-siecle-par-les-anglais</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb18</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -2509,7 +2509,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/alerte-rouge-the-strokes-annoncent-une-date-en-france-au-lollapalooza-paris</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb19</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -2866,7 +2866,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/avis-aux-zicos-philippe-manoeuvre-recrute-1000-rockeurs-pour-un-enorme-concert-au-stade-de-france</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb20</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -3223,7 +3223,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/pour-ou-contre-le-combat-booba-vs-kaaris-a-la-u-arena</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb21</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -3580,7 +3580,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/prince-waly-est-il-plus-cool-que-le-prince-de-bel-air</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb22</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -3937,7 +3937,7 @@
 
         <item>
             <title>This is an Instant Article</title>
-            <link>http://example.com/article.html</link>
+            <link>https://jack.canal.fr/articles/lire/voici-10-meilleures-punchlines-rap-francophone-de-2018</link>
             <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb23</guid>
             <pubDate>2019-01-31T04:44:16Z</pubDate>
             <author>Mr. Author</author>
@@ -4292,7 +4292,7 @@
             </content:encoded>
         </item>        <item>
         <title>This is an Instant Article</title>
-        <link>http://example.com/article.html</link>
+        <link>https://jack.canal.fr/articles/videos/le-nouveau-clip-de-caballero-jeanjass-est-tout-sauf-degueulasse</link>
         <guid>2fd4e1c67a2d28fced849ee1bb76e7391b93eb24</guid>
         <pubDate>2019-01-31T04:44:16Z</pubDate>
         <author>Mr. Author</author>
