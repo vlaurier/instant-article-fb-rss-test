@@ -1,6 +1,7 @@
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
+        <meta property="fb:pages" content="158179588020998" />
         <title>News Publisher</title>
         <link>https://jack.canal.fr</link>
         <description>
